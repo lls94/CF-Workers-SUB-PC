@@ -20,22 +20,24 @@ https://sub.xf.free.hr/auto
 
 MainData = [
 	// "tg://socks5?server=127.0.0.1&port=40000&remarks=WRAP-Plus",
-	// "https://lls-edgetunnel.pages.dev/ac61f2ff-5755-4c82-8fdd-2563f0c81ce1", //lls-edgetunnel
-	// "https://moistr.freenods.sbs/mianfeicf", //Moist_R 优选订阅
-	// "https://3k.fxxk.dedyn.io/auto",//CM 镜像订阅1
-	"https://vless.fxxk.dedyn.io/auto", //CM 优选订阅1
-	// "https://tg.cmliussss.us.kg/auto",//CM 优选订阅2
-	// "https://sub.kaiche.tk/?token=auto",//OTC 汇聚订阅
-	// "https://alvless.comorg.us.kg/TCorg", //天诚 优选订阅
-	// "https://king361.fxxk.dedyn.io/auto", //CM 镜像订阅2
-	// "https://vmess.fxxk.dedyn.io/auto",//CM 优选订阅3
 	// "https://lls-workervless2sub.pages.dev/lls1994"
+	"https://vless.fxxk.dedyn.io/auto",
+	"https://tg.cmliussss.us.kg/auto",
+	"https://vmess.fxxk.dedyn.io/auto",
+	"https://3k.fxxk.dedyn.io/auto",
+	"https://king361.fxxk.dedyn.io/auto",
+	"https://alvless.comorg.us.kg/TCorg",
+	"https://altrojan.comorg.us.kg/TCorg",
+	"https://vless.durl.nyc.mn/zrf",
+	"https://sub.kaiche.tk/?token=auto",
+	"https://moist.996.buzz/vless"
 ].join('\n');
 
 let urls = [
 ];
 let subconverter = "SUBAPI.fxxk.dedyn.io"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
-let subconfig = "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_MultiCountry.ini"; //订阅配置文件
+// let subconfig = "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_MultiCountry.ini"; //订阅配置文件
+let subconfig = "https://raw.githubusercontent.com/lls94/ACL4SSR/master/Clash/config/lls.ini"; //订阅配置文件
 let subProtocol = 'https';
 
 export default {
