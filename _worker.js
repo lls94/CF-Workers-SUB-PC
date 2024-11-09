@@ -21,9 +21,11 @@ https://sub.xf.free.hr/auto
 MainData = [
 	// "tg://socks5?server=127.0.0.1&port=40000&remarks=WRAP-Plus",
 	// "https://lls-workervless2sub.pages.dev/lls1994"
-	"https://vless.fxxk.dedyn.io/auto",
-	"https://tg.cmliussss.us.kg/auto",
+	"https://sub.xf.free.hr/auto",
 	"https://vmess.fxxk.dedyn.io/auto",
+	"https://vless.fxxk.dedyn.io/auto",
+	"https://lls-cf-workers-sub.pages.dev/lls1994",
+	"https://tg.cmliussss.us.kg/auto",
 	"https://3k.fxxk.dedyn.io/auto",
 	"https://king361.fxxk.dedyn.io/auto",
 	"https://alvless.comorg.us.kg/TCorg",
